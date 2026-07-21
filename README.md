@@ -109,10 +109,5 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Learning every day, building one project at a time."*
 
 </div>
