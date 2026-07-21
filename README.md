@@ -28,9 +28,9 @@ Merhaba! Ben **Serkan Osman Çakmak**.
 
 Şu anda **Java** öğreniyor ve **Backend Development** alanında kendimi geliştirmeye odaklanıyorum.
 
-Ayrıca **C#**, **C++** ve **SQL** konularında temel bilgiye sahibim. Öğrendiklerimi küçük projeler geliştirerek pratiğe dökmeyi ve her gün biraz daha ilerlemeyi hedefliyorum.
+Bunun yanında **C#**, **C++** ve **SQL** konularında temel bilgiye sahibim. Öğrendiklerimi küçük projeler geliştirerek pratiğe dökmeyi ve her gün kendimi biraz daha geliştirmeyi hedefliyorum.
 
-Amacım; güçlü yazılım temelleri edinmek, gerçek dünya problemlerine çözüm üretebilen projeler geliştirmek ve backend alanında uzmanlaşmış bir yazılım geliştiricisi olmak.
+Amacım; güçlü yazılım temelleri edinmek, gerçek dünya problemlerine çözüm üretebilen uygulamalar geliştirmek ve backend alanında uzmanlaşmış bir yazılım geliştiricisi olmak.
 
 ---
 
@@ -52,21 +52,21 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 ### 🇹🇷 TR
 
-- ☕ Java öğreniyorum.
-- ⚙️ Backend geliştirme üzerine çalışıyorum.
-- 🗄️ SQL bilgilerimi geliştiriyorum.
-- 📚 Veri Yapıları ve Algoritmalar çalışıyorum.
-- 🚀 Öğrendiklerimi küçük projeler geliştirerek pratiğe döküyorum.
+- Java öğreniyorum.
+- Backend geliştirme üzerine çalışıyorum.
+- SQL bilgilerimi geliştiriyorum.
+- Veri Yapıları ve Algoritmalar çalışıyorum.
+- Öğrendiklerimi küçük projeler geliştirerek pratiğe döküyorum.
 
 ---
 
 ### 🇬🇧 EN
 
-- ☕ Learning Java.
-- ⚙️ Exploring backend development.
-- 🗄️ Improving my SQL knowledge.
-- 📚 Studying Data Structures & Algorithms.
-- 🚀 Applying what I learn by building small projects.
+- Learning Java.
+- Exploring backend development.
+- Improving my SQL knowledge.
+- Studying Data Structures & Algorithms.
+- Applying what I learn by building small projects.
 
 ---
 
@@ -75,15 +75,6 @@ My goal is to build a strong software engineering foundation, develop real-world
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql,git,github,vscode,idea" />
 </p>
-
-| Technology | Level |
-|------------|-------|
-| ☕ Java | Learning |
-| 💜 C# | Basic |
-| 🔵 C++ | Basic |
-| 🗄️ SQL | Basic |
-| ⚫ Git | Basic |
-| 🐙 GitHub | Active User |
 
 ---
 
@@ -109,5 +100,8 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 ---
 
+<div align="center">
+
+*"Learning every day, building one project at a time."*
 
 </div>
