@@ -20,7 +20,7 @@
 
 # 👋 About Me
 
-### 🇹🇷 TR
+### 🇹🇷 Turkish
 
 Merhaba! Ben **Serkan Osman Çakmak**.
 
@@ -30,11 +30,11 @@ Merhaba! Ben **Serkan Osman Çakmak**.
 
 Bunun yanında **C#**, **C++** ve **SQL** konularında temel bilgiye sahibim. Öğrendiklerimi küçük projeler geliştirerek pratiğe dökmeyi ve her gün kendimi biraz daha geliştirmeyi hedefliyorum.
 
-Amacım; güçlü yazılım temelleri edinmek, gerçek dünya problemlerine çözüm üretebilen uygulamalar geliştirmek ve backend alanında uzmanlaşmış bir yazılım geliştiricisi olmak.
+Hedefim güçlü bir yazılım temeli oluşturmak, gerçek dünya problemlerine çözüm üreten projeler geliştirmek ve gelecekte backend alanında uzmanlaşmış bir yazılım geliştiricisi olmak.
 
 ---
 
-### 🇬🇧 EN
+### 🇬🇧 English
 
 Hi! I'm **Serkan Osman Çakmak**.
 
@@ -50,23 +50,23 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 # 💡 What I'm Working On
 
-### 🇹🇷 TR
+### 🇹🇷 Turkish
 
 - Java öğreniyorum.
 - Backend geliştirme üzerine çalışıyorum.
 - SQL bilgilerimi geliştiriyorum.
 - Veri Yapıları ve Algoritmalar çalışıyorum.
-- Öğrendiklerimi küçük projeler geliştirerek pratiğe döküyorum.
+- Küçük projeler geliştirerek pratik yapıyorum.
 
 ---
 
-### 🇬🇧 EN
+### 🇬🇧 English
 
 - Learning Java.
 - Exploring backend development.
 - Improving my SQL knowledge.
 - Studying Data Structures & Algorithms.
-- Applying what I learn by building small projects.
+- Building small projects to gain practical experience.
 
 ---
 
@@ -80,7 +80,7 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 # 📚 Currently Learning
 
-### 🇹🇷 TR
+### 🇹🇷 Turkish
 
 - Java
 - Nesne Yönelimli Programlama (OOP)
@@ -90,7 +90,7 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 ---
 
-### 🇬🇧 EN
+### 🇬🇧 English
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -102,6 +102,8 @@ My goal is to build a strong software engineering foundation, develop real-world
 
 <div align="center">
 
-*"Learning every day, building one project at a time."*
+### Thanks for visiting my profile!
+
+*Learning every day, building one project at a time.*
 
 </div>
