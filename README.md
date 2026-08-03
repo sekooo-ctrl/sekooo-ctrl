@@ -38,20 +38,6 @@ I enjoy understanding how software works behind the scenes, solving problems, an
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql,git,github,vscode,idea" />
-</p>
-
-> **Current level**
->
-> - Java → Learning
-> - C# → Basic
-> - C++ → Basic
-> - SQL → Basic
-
----
 
 ## 📚 Currently Learning
 
