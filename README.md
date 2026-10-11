@@ -40,7 +40,6 @@ During my internship at **GBB Bilişim**, I built the backend of **kARTVİN**, a
 ## 🌱 Right Now
 
 - 🐍 Learning **Python**, then moving on to **machine learning** and **LLMs**
-- 🎯 Goal: become an **AI Engineer (GenAI / LLM)**
 
 ## 📈 GitHub Stats
 
