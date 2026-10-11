@@ -27,10 +27,6 @@ During my internship at **GBB Bilişim**, I built the backend of **kARTVİN**, a
 - **Live bus tracking** simulation, **QR fare payment** and a **green-point reward** system
 - Token-based auth and **18 feature test suites**
 
-## 🔬 Research
-
-**Calibration of Large Language Models in Football Match Prediction**: a TÜBİTAK 2209-A undergraduate research project (application in progress), supervised by Prof. Dr. Nilüfer Yurtay. It measures how well the probabilistic predictions of LLMs are calibrated, using Süper Lig matches of Türkiye's four major clubs.
-
 ## 🛠️ Tech Stack
 
 | | |
@@ -44,7 +40,6 @@ During my internship at **GBB Bilişim**, I built the backend of **kARTVİN**, a
 ## 🌱 Right Now
 
 - 🐍 Learning **Python**, then moving on to **machine learning** and **LLMs**
-- 📊 Preparing my **TÜBİTAK 2209-A** research project
 - 🎯 Goal: become an **AI Engineer (GenAI / LLM)**
 
 ## 📈 GitHub Stats
@@ -67,6 +62,6 @@ During my internship at **GBB Bilişim**, I built the backend of **kARTVİN**, a
 
 <br>
 
-Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. GBB Bilişim'deki stajımda Artvin'in toplu taşıma uygulaması **kARTVİN**'in backend'ini **Laravel** ve **PostgreSQL** ile RESTful API olarak geliştirdim. Şimdi bu yazılım temelini **üretken yapay zekâ** ve **büyük dil modelleri** alanına taşıyorum. TÜBİTAK 2209-A kapsamında dil modellerinin futbol maç tahminindeki kalibrasyonu üzerine bir araştırma projesi hazırlıyorum.
+Sakarya Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. GBB Bilişim'deki stajımda Artvin'in toplu taşıma uygulaması **kARTVİN**'in backend'ini **Laravel** ve **PostgreSQL** ile RESTful API olarak geliştirdim. Şimdi bu yazılım temelini **üretken yapay zekâ** ve **büyük dil modelleri** alanına taşıyorum.
 
 </details>
